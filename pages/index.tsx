@@ -8,6 +8,7 @@ import Breadcrumb from '../components/Breadcrumb'
 
 export default function Home() {
   return (
+    <html lang="zh-cn">
     <div className="dark:bg-gray-900 flex flex-col items-center justify-center min-h-screen bg-white">
       <Head>
         <title>{siteConfig.title}</title>
@@ -23,5 +24,6 @@ export default function Home() {
 
       <Footer />
     </div>
+   </html>
   )
 }
