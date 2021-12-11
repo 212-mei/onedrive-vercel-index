@@ -3,5 +3,5 @@
   "redirectUri": "http://localhost:3000",
   "base": "/",
   "authApi": "https://login.chinacloudapi.cn/common/oauth2/v2.0/token",
-  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/lovedit.sharepoint.cn:/sites/miad"
+  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/{lovedit.sharepoint.cn}:{/sites/miad}"
 }
