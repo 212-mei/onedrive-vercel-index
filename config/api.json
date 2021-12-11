@@ -1,7 +1,7 @@
 {
   "clientId": "faacf245-deb1-44d5-b9a1-7f27eec1fd40",
   "redirectUri": "http://localhost:3000",
-  "base": "/喵滴",
+  "base": "/Files",
   "authApi": "https://login.chinacloudapi.cn/common/oauth2/v2.0/token",
-  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/lovedit.sharepoint.cn:/sites/miad"
+  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/experience.sharepoint.cn:/sites/cloud"
 }
